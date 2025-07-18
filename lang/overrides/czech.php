@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Stáhněte si aplikaci";
+$_LANG['bigtitlefadein'] = "Leťte s těmi nejlepšími!";
+$_LANG['headlighttitle'] = "POSKYTUJEME";
+$_LANG['whyus'] = "Protože my?";
+$_LANG['globalsystemname'] = "Start";
+$_LANG['getsupport_p'] = "Vyhrazená podpora";
+$_LANG['getsupport_span'] = "Získejte podporu bez dalších poplatků. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Nabízíme anonymní a bezpečnou platební možnost, která zajišťuje úplnou ochranu vašich transakcí.";
+$_LANG['orderhosting_span'] = "Nabízíme rychlé a spolehlivé hostingové plány, které splní všechny vaše potřeby a zajistí, že vaše webové stránky budou na webu vždy viditelné.";
+$_LANG['orderhosting_p'] = "Spolehlivý hosting";
+$_LANG['buyadomain_p'] = "Najděte perfektní doménu pro svůj web a spusťte svou online prezentaci snadno.";
+$_LANG['navStore'] = "Obchod";
+$_LANG['map'] = "Mapa";
+$_LANG['clientareanavhome'] = "Start";
+$_LANG['copyright'] = "Copyright ©";
+$_LANG['copyright2_span'] = "Některá práva vyhrazena.";
+$_LANG['web_hosting'] = "Hosting webových stránek";
+$_LANG['game_server'] = "Herní servery";
+$_LANG['og_description'] = "Kvalitní webhosting a herní servery. ";
+$_LANG['title_slug'] = "Hosting webových stránek, herní servery";

@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "امتحان";
+$_LANG['bigtitle'] = "خلع التطبيق الخاص بك";
+$_LANG['bigtitlefadein'] = "سافر مع الأفضل!";
+$_LANG['headlighttitle'] = "نحن نقدم";
+$_LANG['whyus'] = "لأننا؟";
+$_LANG['globalsystemname'] = "يبدأ";
+$_LANG['getsupport_p'] = "دعم مخصص";
+$_LANG['getsupport_span'] = "احصل على الدعم بدون رسوم إضافية. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "نحن نقدم خيار دفع مجهول وآمن، مما يضمن الحماية الكاملة لمعاملاتك.";
+$_LANG['orderhosting_span'] = "نحن نقدم خطط استضافة سريعة وموثوقة لتلبية جميع احتياجاتك، مما يضمن ظهور موقع الويب الخاص بك دائمًا على الويب.";
+$_LANG['orderhosting_p'] = "استضافة موثوقة";
+$_LANG['buyadomain_p'] = "ابحث عن النطاق المثالي لموقعك على الويب وابدأ تواجدك على الإنترنت بسهولة.";
+$_LANG['navStore'] = "محل";
+$_LANG['map'] = "خريطة";
+$_LANG['clientareanavhome'] = "يبدأ";
+$_LANG['copyright'] = "حقوق الطبع والنشر ©";
+$_LANG['copyright2_span'] = "بعض الحقوق محفوظة.";
+$_LANG['web_hosting'] = "موقع استضافة";
+$_LANG['game_server'] = "خوادم اللعبة";
+$_LANG['og_description'] = "استضافة مواقع وخوادم ألعاب عالية الجودة. ";
+$_LANG['title_slug'] = "استضافة المواقع، خوادم الألعاب";

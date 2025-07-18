@@ -1,0 +1,52 @@
+<?php $subdomain = explode('.',strtoupper($_SERVER['HTTP_HOST']))[0];  ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>.:: GhzHost <?php echo $subdomain ?> ::.</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+
+  <!-- Primary Meta Tags -->
+<title>.:: GhzHost<?php echo $subdomain ?> ::. —  Hospedagem de Sites,  Servidores de Jogos</title>
+<meta name="title" content=".:: GhzHost ::. —  Hospedagem de Sites,  Servidores de Jogos" />
+<meta name="description" content="Hospedagem de sites e servidores de jogos de alta qualidade. Planos flexíveis e preços acessíveis para atender às suas necessidades online. Confiabilidade e desempenho garantidos." />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://ghzhost.com/" />
+<meta property="og:title" content=".:: GhzHost<?php echo $subdomain ?> ::. —  Hospedagem de Sites,  Servidores de Jogos" />
+<meta property="og:description" content="Hospedagem de sites e servidores de jogos de alta qualidade. Planos flexíveis e preços acessíveis para atender às suas necessidades online. Confiabilidade e desempenho garantidos." />
+<meta property="og:image" content="https://br.ghzhost.com/og.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content=".:: GhzHost<?php echo $subdomain ?> ::. —  Hospedagem de Sites,  Servidores de Jogos" />
+<meta property="twitter:description" content="Hospedagem de sites e servidores de jogos de alta qualidade. Planos flexíveis e preços acessíveis para atender às suas necessidades online. Confiabilidade e desempenho garantidos." />
+<meta property="twitter:image" content="https://br.ghzhost.com/og.png" />
+</head>
+<body>
+    <!-- preloader element -->
+    <div class="preloader">
+        <div class="image-container">
+          <img src="https://ghzhost.com/logo.png" alt="Imagem">
+        </div>
+      </div>
+   
+    <div id="container"></div>
+    <div class="logo-container">
+    <a href="/"><div class="logo">    
+    <img id="flag" src="https://flagcdn.com/w40/<?php echo strtolower($subdomain); ?>.png" alt="flag" />
+    </div>
+    </a>
+    <div class="subdomain-text">.:: GhzHost<?php echo $subdomain ?> ::.</div> 
+    <div id="countdown"></div>
+    <div class="social-buttons">
+        <a href="//fb.com/GhzHost<?php echo $subdomain ?>" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="//twitter.com/ghzhost<?php echo $subdomain ?>" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="//instagram.com/ghzhost_<?php echo $subdomain ?>" target="_blank"><i class="fab fa-instagram"></i></a>
+    </div>
+ <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+ <script src="https://threejs.org/build/three.module.min.js"></script>
+ <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "testa";
+$_LANG['bigtitle'] = "Ta av din ansökan";
+$_LANG['bigtitlefadein'] = "Flyg med de bästa!";
+$_LANG['headlighttitle'] = "VI TILLHANDAHÅLLER";
+$_LANG['whyus'] = "För att vi?";
+$_LANG['globalsystemname'] = "Start";
+$_LANG['getsupport_p'] = "Dedikerad support";
+$_LANG['getsupport_span'] = "Få support utan extra avgifter. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Vi erbjuder ett anonymt och säkert betalningsalternativ, vilket säkerställer totalt skydd för dina transaktioner.";
+$_LANG['orderhosting_span'] = "Vi erbjuder snabba och pålitliga värdplaner för att möta alla dina behov, vilket säkerställer att din webbplats alltid är synlig på webben.";
+$_LANG['orderhosting_p'] = "Pålitlig hosting";
+$_LANG['buyadomain_p'] = "Hitta den perfekta domänen för din webbplats och lansera din onlinenärvaro med lätthet.";
+$_LANG['navStore'] = "Lagra";
+$_LANG['map'] = "Karta";
+$_LANG['clientareanavhome'] = "Start";
+$_LANG['copyright'] = "Copyright ©";
+$_LANG['copyright2_span'] = "Vissa rättigheter reserverade.";
+$_LANG['web_hosting'] = "Webbhotell";
+$_LANG['game_server'] = "Spelservrar";
+$_LANG['og_description'] = "Högkvalitativ webbhotell och spelservrar. ";
+$_LANG['title_slug'] = "Webbplatshotell, spelservrar";

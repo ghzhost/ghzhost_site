@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Retirez votre candidature";
+$_LANG['bigtitlefadein'] = "Volez avec les meilleurs !";
+$_LANG['headlighttitle'] = "NOUS FOURNISSONS";
+$_LANG['whyus'] = "Parce que nous?";
+$_LANG['globalsystemname'] = "Commencer";
+$_LANG['getsupport_p'] = "Un support dédié";
+$_LANG['getsupport_span'] = "Bénéficiez d\'une assistance sans frais supplémentaires. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Nous proposons une option de paiement anonyme et sécurisée, garantissant une protection totale de vos transactions.";
+$_LANG['orderhosting_span'] = "Nous proposons des plans d\'hébergement rapides et fiables pour répondre à tous vos besoins, garantissant que votre site Web soit toujours visible sur le Web.";
+$_LANG['orderhosting_p'] = "Hébergement fiable";
+$_LANG['buyadomain_p'] = "Trouvez le domaine idéal pour votre site Web et lancez facilement votre présence en ligne.";
+$_LANG['navStore'] = "Magasin";
+$_LANG['map'] = "Carte";
+$_LANG['clientareanavhome'] = "Commencer";
+$_LANG['copyright'] = "Droits d\'auteur ©";
+$_LANG['copyright2_span'] = "Certains droits réservés.";
+$_LANG['web_hosting'] = "Hébergement de sites Web";
+$_LANG['game_server'] = "Serveurs de jeux";
+$_LANG['og_description'] = "Hébergement de sites Web et serveurs de jeux de haute qualité. ";
+$_LANG['title_slug'] = "Hébergement de sites Web, serveurs de jeux";

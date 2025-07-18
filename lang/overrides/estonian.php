@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Võtke taotlus ära";
+$_LANG['bigtitlefadein'] = "Lenda koos parimatega!";
+$_LANG['headlighttitle'] = "ME VARUSTAME";
+$_LANG['whyus'] = "Sest meie?";
+$_LANG['globalsystemname'] = "Alusta";
+$_LANG['getsupport_p'] = "Pühendatud toetus";
+$_LANG['getsupport_span'] = "Hankige tuge ilma lisatasudeta. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Pakume anonüümset ja turvalist maksevõimalust, tagades teie tehingutele täieliku kaitse.";
+$_LANG['orderhosting_span'] = "Pakume kiireid ja usaldusväärseid hostimisplaane, mis vastavad kõigile teie vajadustele, tagades, et teie veebisait on alati veebis nähtav.";
+$_LANG['orderhosting_p'] = "Usaldusväärne hostimine";
+$_LANG['buyadomain_p'] = "Leidke oma veebisaidile ideaalne domeen ja käivitage hõlpsalt oma veebipõhine kohalolek.";
+$_LANG['navStore'] = "Kauplus";
+$_LANG['map'] = "Kaart";
+$_LANG['clientareanavhome'] = "Alusta";
+$_LANG['copyright'] = "Autoriõigus ©";
+$_LANG['copyright2_span'] = "Mõned õigused kaitstud.";
+$_LANG['web_hosting'] = "Veebisaidi hostimine";
+$_LANG['game_server'] = "Mängu serverid";
+$_LANG['og_description'] = "Kvaliteetsed veebimajutus- ja mänguserverid. ";
+$_LANG['title_slug'] = "Veebisaidi hostimine, mänguserverid";

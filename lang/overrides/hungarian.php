@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "teszt";
+$_LANG['bigtitle'] = "Vegye le a jelentkezését";
+$_LANG['bigtitlefadein'] = "Repülj a legjobbakkal!";
+$_LANG['headlighttitle'] = "BIZTOSÍTJUK";
+$_LANG['whyus'] = "Mert mi?";
+$_LANG['globalsystemname'] = "Rajt";
+$_LANG['getsupport_p'] = "Dedikált támogatás";
+$_LANG['getsupport_span'] = "Szerezzen támogatást extra díjak nélkül. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Anonim és biztonságos fizetési lehetőséget kínálunk, amely teljes védelmet biztosít tranzakciói számára.";
+$_LANG['orderhosting_span'] = "Gyors és megbízható tárhelyterveket kínálunk, amelyek minden igényt kielégítenek, biztosítva, hogy webhelye mindig látható legyen az interneten.";
+$_LANG['orderhosting_p'] = "Megbízható hosting";
+$_LANG['buyadomain_p'] = "Találja meg webhelye számára a tökéletes domaint, és indítsa el online jelenlétét könnyedén.";
+$_LANG['navStore'] = "Bolt";
+$_LANG['map'] = "Térkép";
+$_LANG['clientareanavhome'] = "Rajt";
+$_LANG['copyright'] = "Copyright ©";
+$_LANG['copyright2_span'] = "Néhány jog fenntartva.";
+$_LANG['web_hosting'] = "Weboldal hosting";
+$_LANG['game_server'] = "Játékszerverek";
+$_LANG['og_description'] = "Kiváló minőségű weboldaltárhely és játékszerverek. ";
+$_LANG['title_slug'] = "Weboldal hosting, játékszerverek";

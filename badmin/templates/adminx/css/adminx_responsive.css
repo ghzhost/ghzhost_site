@@ -1,0 +1,1137 @@
+@media (max-width: 1800px){
+    .adminx-wrapper {
+        position: relative;
+        background:#eeeeee;
+    }
+    .adminx-main-section div#panelBadges .col-sm-3 {
+        padding-right: 10px;
+    }
+    .dashboard-panel-static-item .health-status-block{
+        padding: 10px;
+    }
+    .dashboard-panel-static-item .health-status-block .detail span.desc{
+        font-size: 14px;
+    }
+    .adminx-main-section .home-status-badge-row{
+        padding: 20px;
+    }
+    .health-status-block .detail{
+        padding: 8px 10px;
+    }
+    .health-status-block .detail{
+        width: 80%;
+    }
+    .dashboard-panel-static-item .health-status-block .icon{
+        width: 20%;
+    }
+    .widget-support .tickets-list{
+        margin: 0 15px 12px; 
+    }
+    .icon-stats {
+        padding: 15px 0px;
+    }
+    .adminx-main-section .widget-clientactivity .clients-list{
+        margin: 0 15px 20px 15px;
+    }
+    form#frmClientSearch .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input, .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=tel]{
+        padding-left: 65px !important;
+    }
+    form#frmClientSearch .intl-tel-input.separate-dial-code .selected-dial-code{
+        padding-left: 23px;
+    }
+    form#frmClientSearch .intl-tel-input .selected-flag .iti-arrow{
+        right: 14px;
+    }
+    .adminx-main-section form#frmClientSearch input.form-control{
+        font-size: 12px;
+    }
+    .adminx-inner-section form#frmClientSearch .btn-default {
+        width: 100%;
+    }
+    .adminx-inner-section form#frmClientSearch input#inputPhone {
+        padding-left: 58px;
+        padding-right: 3px;
+    }
+    .adminx-main-section .search-bar .search-fields label{
+        font-size: 12px;
+    }
+    div#tabConfig .row.top-margin-10 .col-lg-3 {
+        width: 33%;
+    }
+    .index-page-inner-data .icon-stats .icon-holder{
+        font-size: 30px;
+    }
+    .adminx-inner-section .widget-support .icon-stats .item{
+        padding: 15px 6px;
+    }
+    .adminx-inner-section .index-page-inner-data .icon-stats .data {
+        margin-left: 5px;
+    }
+}
+@media (max-width: 1600px){
+    .control-bar-open-mobile .client-summary-panels .col-lg-3 {
+        width: 33%;
+    }
+    .control-bar-open-mobile .index-page-inner-data .home-widgets-container  .icon-stats .col-sm-6 {
+        width: 100%;
+    }
+    .control-bar-open-mobile .adminx-inner-section .index-page-inner-data .widget-support .icon-stats .col-sm-6:nth-child(1) .item, .control-bar-open-mobile .adminx-inner-section .widget-clientactivity .icon-stats .col-sm-6:nth-child(1) .item {
+        margin-bottom: 10px;
+    }
+}
+@media (max-width: 1500px){
+    .adminx-inner-section .widget-clientactivity .icon-stats .item, .adminx-inner-section .widget-support .icon-stats .item {
+        padding: 10px 10px;
+        border-radius: 10px;
+    }
+    /* .adminx-inner-section .widget-clientactivity .icon-stats .item i {
+        font-size: 25px;
+    } */
+    .adminx-inner-section .widget-clientactivity .icon-stats .note {
+        font-size: 13px;
+        color: #1C2534;
+    }
+    .adminx-inner-section .icon-stats .number {
+        font-size: 15px;
+    }
+    .adminx-inner-section .widget-automation .col-xs-6.col-sm-4.col-md-6 {
+        padding: 15px 15px;
+    }
+    .adminx-inner-section .dashboard-panel-item .panel-heading .panel-title{
+        font-size: 15px;
+    }
+    .adminx-inner-section .widget-billing .item .data, .adminx-inner-section .widget-stripe .item .data{
+        font-size: 14px;
+    }
+    .adminx-inner-section .widget-support .icon-stats .col-sm-6:nth-child(1) .item, .adminx-inner-section .widget-clientactivity .icon-stats .col-sm-6:nth-child(1) .item{
+        margin-bottom: 10px;
+    }
+    .home-widgets-container .icon-stats .col-sm-6 {
+        width: 100%;
+    }
+    .health-status-block .detail {
+        padding: 8px 0px;
+    }
+    .health-status-block .detail {
+        width: 85%;
+    }
+    .dashboard-panel-static-item .health-status-block .icon {
+        width: 15%;
+    }
+    .adminx-main-section .home-status-badge-row {
+        padding: 15px 7px;
+    }
+    .adminx-inner-section .widget-marketconnect .selling-status .service{
+        flex-wrap: wrap;
+    }
+    .adminx-main-section table.form td.fieldlabel{
+        font-size: 13px;
+    }
+    .control-bar-open-mobile .col-md-8.adminx-col8, .control-bar-open-mobile .col-md-4.adminx-col4 {
+        width: 100%;
+    }
+    .adminx-main-section .supporttickets-page-inner-data-open table.form td.fieldarea .col-sm-10, .adminx-main-section .supporttickets-page-inner-data-open table.form td.fieldarea .col-sm-2{
+        width: 50%;
+    }
+    .search-bar .simple{
+        padding: 10px 0px;
+    }
+    .control-bar-open-mobile .search-bar .search-fields .col-md-3{
+        padding-left: 1px;
+    }
+    .adminx-main-section form#frmUsersSearch .search-bar .simple{
+        padding-left: 10px;
+    }
+    .control-bar-open-mobile .orders-page-data .tablebg table.datatable {
+        width: 1100px !important;
+    }
+    .adminx-main-section .balance-wrapper {
+        overflow-y: unset;
+        max-height: unset;
+    }
+    .adminx-main-section .transactions-header .col-lg-9, .adminx-main-section .transactions-header .col-lg-3 {
+        width: 100%;
+    }
+    .adminx-main-section .transactions-header .col-lg-3 .row {
+        display: flex;
+    }
+    .control-bar-open-mobile  div.tablebg table.datatable {
+        width: 1200px !important;
+    }
+    .control-bar-open-mobile .clientssummarybox{
+        padding: 5px;
+    }
+    .clientsprofile-page-inner-data .tab-content.client-tabs{
+        padding: 0;
+    }
+    .configauto-page-inner-data .health-status-block .detail {
+        padding: 8px 10px;
+    }
+    .control-bar-open-mobile .market-connect-apps-container .panel-market-item .panel-body .btn-default.btn-block {
+        margin: 0;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    .control-bar-open-mobile .market-connect-apps-container .panel-market-item .panel-body .col-sm-6{
+        width: 100%;
+    }
+    .systemhealthandupdates-page-inner-data .health-status-block .detail {
+        padding: 8px 10px;
+    }
+    .adminx-main-section form#frmUsersSearch .search-bar .simple{
+        padding: 10px 10px;
+    }
+    form.clientSummaryServiceList {
+        overflow-x: auto;
+    }
+    form.clientSummaryServiceList table {
+        width: 1300px !important;
+    }
+    .clientProductServicesTab {
+        overflow: auto;
+    }
+}
+@media (max-width: 1439px){
+    .adminx-main-section .search-bar .search-fields .col-md-1 {
+        width: 15.333333%;
+    }
+    .adminx-main-section .search-bar .search-fields .col-lg-2 {
+        width: 24.666667%;
+    }
+    .col-md-4.categoryKbBox{
+        padding: 15px;
+    }
+    #tabConfig .storage-config-panel .config-type-icon {
+        color: #5264f7;
+        margin-right: 20px;
+        float: unset!important;
+    }
+    .adminx-main-section .icon i {
+        font-size: 25px;
+    }
+}
+@media (max-width: 1366px){
+    .dashboard-panel-static-item .health-status-block .icon a, .dashboard-panel-static-item .health-status-block.status-badge-pink .icon a, .dashboard-panel-static-item .health-status-block.status-badge-orange .icon a, .dashboard-panel-static-item .health-status-block.status-badge-cyan .icon a{
+        background-position: 50%, 100%;
+        height: 40px;
+    }
+    .dashboard-panel-static-item .health-status-block .detail a{
+        justify-content: center;
+    }
+    .dashboard-panel-static-item .health-status-block .detail span.count{
+        text-align: center;
+    }
+    .health-status-block .detail, .dashboard-panel-static-item .health-status-block .icon {
+        width: 100%;
+    }
+    .adminx-main-section .index-page-inner-data .to-do-items a{
+        max-width: 100%;
+    }
+    .adminx-inner-section .widget-automation .row:before{
+        display:none;
+    }
+    .adminx-inner-section .widget-automation .col-md-6 {
+        width: 100%;
+    }
+    .dashboard-panel-static-item .health-status-block {
+        padding: 10px 8px;
+    }
+    .dashboard-panel-static-item .health-status-block .detail span.desc {
+        font-size: 13px;
+    }
+    .adminx-inner-section .widget-activity .feed-element{
+        font-size: 12px;
+    }
+    .widget-activity .widget-content-padded {
+        padding: 10px 15px;
+    }
+    .footerbar{
+        font-size: 11.5px;
+    }
+    .clientsadd-page-inner-data .row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .clientsadd-page-inner-data .col-sm-6.col-lg-4{
+       float: unset;
+    }
+    .adminx-main-section form#frmAddUser label{
+        font-size: 13px;
+    }
+    .adminx-main-section input.form-control, .todolist-page-inner-data-edit input, .adminx-main-section select.form-control{
+        font-size: 13px;
+    }
+    .adminx-main-section #ordersummary tr.total td{
+        font-size: 16px;
+    }
+    .adminx-main-section #ordersummary tr.subtotal td, .adminx-main-section #ordersummary tr.tax td, .adminx-main-section #ordersummary tr.total td{
+        padding: 15px 0px;
+    }
+    .control-bar-open-mobile table.form.lastTableManageQuote td {
+        width: 100%;
+        display: block;
+    }
+    .paging-dropdown button.btn.btn-default.dropdown-toggle.btn-xs {
+        margin: 0;
+    }
+    form#frmRecordsFound .right-margin-5.inline{
+        margin-right: 0px;
+    }
+    form#frmRecordsFound .col-md-6.col-sm-12:first-child {
+        width: 40%;
+    }
+    form#frmRecordsFound .col-md-6.col-sm-12:last-child {
+        width: 60%;
+    }
+    form.clients-list-form .table-bg-overflow-visible{
+        overflow: auto;
+    }
+    form.clients-list-form table.datatable {
+        width: 1110px !important;
+    }
+    .adminx-main-section .affiliates-page-inner-data table.datatable th{
+        padding: 12px !important;
+    }
+    .adminx-main-section div.tablebg table.datatable {
+        width: 1200px !important;
+    }
+    .client-summary-panels .col-lg-3 {
+        width: 33%;
+    }
+    .adminx-inner-section.common-page-data .tablebg {
+        overflow: auto ;
+    }
+    .storage-config-panel>.panel-heading span {
+        font-size: 13px;
+    }
+}
+@media (max-width: 1199px){
+    body .contentarea, body.side-bar-collapse .contentarea {
+        margin-right: 0;
+    }
+    .footerbar {
+        margin: 0 0px 0 240px;
+    }
+    body.side-bar-collapse .footerbar {
+        margin: 0 0px 0 80px;
+    }
+    .ordersadd-page-inner-data .col-md-8.adminx-col8, .ordersadd-page-inner-data .col-md-4.adminx-col4 {
+        width: 100%;
+    }
+    table.form.lastTableManageQuote td {
+        display: block;
+        width: 100%;
+    }
+    .quotes-page-inner-data-manage .table-wrap-line-iteam div.tablebg{
+        overflow-x: auto;
+    }
+    .quotes-page-inner-data-manage .table-wrap-line-iteam table.datatable {
+        width: 1200px !important;
+    }
+    .affiliates-page-inner-data .tablebg table.datatable {
+        width: 1000px !important;
+    }
+    .adminx-main-section .transactions-header .stat{
+        padding: 10px 10px 10px 10px;
+    }
+    .adminx-main-section .transactions-header .stat small.up{
+        font-size: 11px;
+    }
+    .adminx-main-section .transactions-header .balance-wrapper {
+        overflow-y: unset;
+        max-height: unset;
+    }
+    .adminx-main-section .transactions-header{
+        padding: 30px 0px;
+    }
+    .reportTableDataSec {
+        overflow: auto;
+    }
+    .table-condensed.datatable {
+        width: 1100px !important;
+    }
+    .module-queue-header .col-sm-7 {
+        text-align: center;
+    }
+    .modulequeue-page-inner-data .row{
+        display: flex;
+    }
+    .client-summary-panels .col-lg-3 {
+        width: 49%;
+    }
+    .configcustomfields-page-inner-data .pull-right {
+        float: unset!important;
+    }
+    .automationstatus-page-data .health-status-block .icon{
+        width: 30%;
+    }
+    .automationstatus-page-data .health-status-block .detail{
+        width: 70%;
+    }
+    body {
+        overflow-x: unset;
+    }
+    .invoices-page-data form .btn {
+        margin: 5px 3px;
+    }
+}
+@media (max-width: 991px){
+    .top-right-nav-sec{
+        padding-left: 20px;
+    }
+    .adminx-main-section .clientsadd-page-data table input.form-control, .adminx-main-section .clientsadd-page-data table select{
+        max-width: 100% !important;
+    }
+    .adminx-main-section .clientsadd-page-data table.form td{
+        width: 100%;
+        display: block;
+    }
+    .adminx-main-section .clientsadd-page-data label.radio-inline.toggle.bottom-margin-5 {
+        padding-left: 18px !important;
+    }
+    .adminx-main-section tr#rowEmailPreferences td {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .adminx-main-section #orderfrm table.form td.fieldlabel {
+        width: 30%;
+    }
+    .quotes-page-inner-data-manage table.form td {
+        display: block;
+        width: 100%;
+    }
+    .supporttickets-page-inner-data-open table.form td {
+        width: 100%;
+        display: block;
+    }
+    .adminx-main-section form#frmClientSearch .search-bar .search-fields .col-md-1, .adminx-main-section form#frmClientSearch .search-bar .search-fields .col-lg-2{
+        width: 50%;
+    }
+    .adminx-main-section form#frmUsersSearch .search-bar .search-fields .col-xs-12.col-sm-2 {
+        padding-left: 0;
+    }
+    .adminx-main-section form#frmUsersSearch .search-bar .search-fields {
+        margin-left: 5px;
+    }
+    .table-order-form td {
+        display: block;
+        width: 50%;
+        padding-right: 0px;
+    }
+    .table-order-form tr {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .adminx-main-section .transactions-header .balance-column {
+        width: 48.3%;
+    }
+    .adminx-main-section #divGatewayBalances {
+        margin: 10px 0px;
+    }
+    .adminx-main-section .contentbox .textred, .adminx-main-section .contentbox .textgreen{
+        margin: 0px 10px 0px 0px;
+    }
+    .adminx-main-section .contentbox{
+        font-size: 12px !important;
+    }
+    .adminx-main-section div.tablebg table.datatable {
+        width: 870px !important;
+    }
+    .automationstatus-page-data .health-status-block .icon {
+        width: 100%;
+        float: unset;
+        border-radius: 10px;
+    }
+    /* .health-status-block {
+        display: block;
+    } */
+    .automationstatus-page-data .health-status-block .detail{
+        text-align: center;
+    }
+    .client-summary-panels .col-lg-3 {
+        width: 100%;
+    }
+    .col-md-4.categoryKbBox{
+        width: 47.333333%;
+    }
+    .systemphpinfo-page-inner-data .center {
+        overflow-x: auto;
+    }
+    ul.nav.nav-pills.aai-primary-nav {
+        margin-top: 10px;
+    }
+    .apps-and-integrations .search{
+        float: unset;
+        width: 100%;
+    }
+    .systemsupportrequest-page-inner-data  table {
+        width: 900px !important;
+        overflow: auto;
+    }
+    .systemsupportrequestTableDataSec {
+        overflow: auto;
+    }
+    .marketConnectButtonList .pull-right {
+        float: unset !important;
+    }
+    .storage-config-panel>.panel-heading span {
+        font-size: 13px;
+        float: unset !important;
+        width: 100%;
+    }
+    .storage-config-panel>.panel-heading{
+        display: block;
+    }
+    .systemhealthandupdates-page-inner-data .health-status-block {
+        display: block;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+    .systemhealthandupdates-page-inner-data .health-status-block .icon, .systemhealthandupdates-page-inner-data .health-status-block .detail{
+        border-radius: 0px;
+        text-align: center;
+        width: 100%;
+    }
+    .systemhealthandupdates-page-inner-data .system-health-export-buttons {
+        margin-top: 0;
+        display: flex;
+    }
+    .dashboard-panel-static-item .health-status-block .icon a, .dashboard-panel-static-item .health-status-block.status-badge-pink .icon a, .dashboard-panel-static-item .health-status-block.status-badge-orange .icon a, .dashboard-panel-static-item .health-status-block.status-badge-cyan .icon a {
+        height: 35px;
+    }
+    .dashboard-panel-static-item .health-status-block .detail span.count {
+        text-align: left;
+    }
+    .dashboard-panel-static-item .health-status-block .icon {
+        width: 15%;
+    }
+    .dashboard-panel-static-item .health-status-block .detail a {
+        justify-content: left;
+    }
+    .dashboard-panel-static-item .health-status-block .detail span.count {
+        text-align: left;
+    }
+    .adminx-home-page .home-status-badge-row .col-sm-3 {
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    .sendMessageTableDataSec {
+        overflow: auto;
+    }
+    .automationstatus-page-data .health-status-block .detail {
+        width: 100%;
+    }
+    .automationstatus-page-data .health-status-block{
+        overflow: hidden;
+        display: block;
+    }
+    .adminx-main-section table.form td.fieldarea{
+        padding-left: 0px;
+        padding: 3px 0px 3px 0px;
+    }
+    .downloadSupportCategory .col-md-4.col-sm-6, .supportTicketPredefineCategory .col-md-4.col-sm-6{
+        width: 45.333333%;
+    }
+    .adminx-main-section .invoices-page-inner-data-edit div.tablebg {
+        position: relative;
+    }
+    .adminx-main-section .invoices-page-inner-data-edit div.tablebg table.datatable {
+        width: 870px !important;
+        overflow: auto;
+        /* display: block; */
+    }
+    table#tblDisputes {
+        width: 800px;
+    }
+    div#tblDisputes_wrapper {
+        overflow: auto;
+    }
+}
+@media (min-width: 768px){
+.side-bar-collapse ul.parent-sub-nav li.has-dropdown.second-level-menu {
+    position: relative;
+}
+.side-bar-collapse .parent-nav.has-dropdown:hover ul.parent-sub-nav li.has-dropdown.second-level-menu:hover ul {
+    position: absolute;
+    left: 190px;
+    top: 0;
+}
+}
+@media (max-width: 767px){
+    ul.adminx-nav-list {
+        padding: 0px 10px;
+    }
+    .downloadSupportCategory .col-md-4.col-sm-6, .supportTicketPredefineCategory .col-md-4.col-sm-6{
+        margin: 10px 15px;
+        width: auto;
+    }
+    .adminx-inner-section .supportticketpredefinedreplies-page-inner-data .caret {
+        margin-top: 0px !important;
+    }
+    .adminx-inner-section .supportticketpredefinedreplies-page-inner-data a.dropdown-toggle{
+        margin: 5px;
+    }
+    .side-bar-collapse .top-left-nav-sec, .top-left-nav-sec{
+        width: 100%;
+        justify-content: center;
+        max-width: 100%;
+    }
+    ul.left-nav {
+        position: absolute;
+        left: 20px;
+    }
+    
+    .adminx-top-right-nav {
+        display: block;  
+        padding: 0px 0px 0px 0px;
+    }
+    .side-bar-collapse a.logo {
+        display: block;
+    }
+    .adminx-main-section #orderfrm table.form td.fieldlabel{
+        width: 100%;
+    }
+    .side-navigation-admin-x{
+        transform: translateX(-100%);
+    }
+    .side-bar-collapse .side-navigation-admin-x {
+        width: 100%;
+        transform: translatex(0);
+        max-width: 100%;
+        top: 49px;
+    }
+    .adminxHeaderSticky .side-navigation-admin-x {
+        padding-bottom: 200px;
+        overflow-x: scroll;
+    }
+    .adminxHeaderSticky aside.right-side-control-admin-x {
+        overflow: scroll;
+        padding-bottom: 150px;
+    }
+    .side-bar-collapse .parent-nav.has-dropdown span.parent-nav-menu-name {
+        display: inline;
+    }
+    .side-bar-collapse .caret{
+        display: inline-block;
+        margin-top: -5px;
+    }
+    .contentarea {
+        margin: 0 0 0 0px;
+    }
+    .side-bar-collapse .parent-nav.has-dropdown:hover ul.parent-sub-nav{
+        position: relative;
+        padding: 0px 15px;
+        width: 100%;
+        left: 0;
+    }
+    .side-bar-collapse .parent-nav.has-dropdown:hover span.parent-nav-menu-name{
+        padding: 15px 0px;
+    }
+    .adminx-top-right-nav li.bt.control-bar-settings {
+        position: absolute;
+        top: 24px;
+        right: 20px;
+    }
+    .right-side-control-admin-x{
+        width: 100%;
+        top: 123px;
+    }
+    .footerbar {
+        display: block;
+    }
+    .footerbar {
+        margin: 0;
+    }
+    .top-right-nav-sec{
+        padding: 6px 20px;
+    } 
+    .adminx-top-right-nav ul.drop-icons{
+        top: 125px;
+        right: 20px;
+        min-width: 310px;
+        max-width: 310px;
+    }  
+    .drop-down-node a{
+        padding: 20px 6px;
+        font-size: 12px;
+    }
+    .adminx-top-right-nav ul.right-nav .setting-node-img{
+        height: 25px;
+    }
+    .adminx-top-right-nav li.bt.has-dropdown.right-nav-bar-settings.active {
+        position: static;
+    }
+    .automationstatus-page-inner-data div#statsContainer {
+        padding-top: 20px;
+    }
+    .automation-status .graph-container{
+        height: auto;
+        padding: 15px;
+    }
+    .adminx-inner-section{
+        padding: 15px;
+    }
+    .automation-status .graph-filters {
+        margin: 0 0px 10px 0px;
+        float: unset;
+        display: flex;
+    }
+    body .adminx-main-section{
+        padding: 15px 15px 58px 15px !important;
+    }
+    h4#modalAjaxTitle {
+        font-size: 17px;
+    }
+    .side-bar-collapse .parent-nav.has-dropdown:hover ul.parent-sub-nav{
+        display: none;
+    }
+    .side-bar-collapse .parent-nav.has-dropdown ul.parent-sub-nav li.has-dropdown.second-level-menu:hover ul {
+        display: none;
+    }
+    .dashboard-panel-static-item .health-status-block{
+        margin-bottom: 10px;
+    }
+    table.form tr td.fieldlabel{
+        background-color: transparent;
+    }
+    .adminx-main-section .clientsadd-page-inner-data table.form td{
+        padding: 4px 0px;
+    }
+    .adminx-main-section form#frmAddUser label.radio-inline.toggle.bottom-margin-5 {
+        font-size: 13px;
+        padding-left: 20px;
+    }
+    .adminx-main-section #orderfrm label.checkbox-inline {
+        padding-left: 20px;
+        margin-left: 0;
+    }
+    .adminx-main-section table.form td.fieldarea{
+        padding-left: 0px;
+    }
+    .order-summary-wrap-main {
+        padding: 20px 15px;
+    }
+    .ordersadd-page-inner-data .col-md-8.adminx-col8 p {
+        padding: 0 !important;
+    }
+    .adminx-main-section .ordersummarytitle .btn-primary{
+        padding: 10px 15px !important;
+    }
+    .adminx-main-section table.form td {
+        padding: 3px 0px 3px 0px;
+    }
+    .side-bar-collapse .adminx-main-section, .footerbar {
+        margin: 0 0 0 0px;
+    }
+    button#btnSearchClients{
+        margin: 5px 0px;
+    }
+    .adminx-main-section form#frmClientSearch .search-bar .search-fields .col-md-1, .adminx-main-section form#frmClientSearch .search-bar .search-fields .col-lg-2{
+        width: 100%;
+    }
+    .adminx-main-section .search-bar .search-fields {
+        margin-left: 0;
+    }
+    .search-bar .search-icon {
+        float: unset;
+    }
+    form#frmRecordsFound .col-md-6.col-sm-12:last-child, form#frmRecordsFound .col-md-6.col-sm-12:first-child {
+        width: 100%;
+        text-align: left;
+        font-size: 12px;
+    }
+    body.no-sidebar.control-bar-collapse .adminx-main-section, body.no-sidebar.control-bar-collapse .footerbar {
+        margin: 0 0 0 0px;
+    }
+    .update-page-inner-data .pull-right {
+        float: unset !important;
+        margin-top: 0 !important;
+    }
+    .current-status {
+        margin: 0 0 20px 0;
+        padding: 0;
+        text-align: center;
+        font-size: 20px;
+    }
+    .version-container span.version-number {
+        font-size: 30px;
+    }
+    .version-container .installed-output, .version-container .latest-output{
+        text-align: center;
+    }
+    .updater-container {
+        margin: 30px auto;
+    }
+    .version-container span.version-label {
+        font-size: 14px;
+        margin: 5px 0px;
+    }
+    .version-container .installed, .version-container .latest{
+        text-align: center;
+    }
+    .adminx-main-section .search-bar .search-icon{
+        display: none;
+    }
+    form#frmUsersSearch .search-bar .search-fields .row{
+        margin: 0;
+    }
+    form#frmUsersSearch .search-bar .search-fields .col-xs-12 {
+        padding: 0;
+    }
+    .cancelrequests-page-inner-data .btn-group .btn-default{
+        padding: 6px 6px;
+        font-size: 12px;
+        margin: 0;
+    }
+    .systemdatabase-page-inner-data .col-md-6 {
+        overflow-x: auto;
+    }
+    #frmRecordsFound .col-md-6.col-sm-12.text-right {
+        margin-top: 5px;
+    }
+    .adminx-main-section .contentbox{
+        line-height: 21px;
+    }
+    .adminx-main-section table.datatable th, .adminx-main-section .clientSummaryServiceList table th{
+        padding: 10px !important;
+    }
+    .clientsummaryactions {
+        margin-bottom: 10px;
+        float: unset;
+    }
+    .adminx-top-right-nav ul.right-nav li{
+        position: static;
+    }
+    .adminx-top-right-nav ul.drop-icons, .adminx-top-right-nav .drop-left{
+        top: unset;
+    }
+    .adminx-top-right-nav ul.right-nav li.bt.automation-whmcs-btn {
+        position: relative;
+    }
+    .drop-left.drop-down-node {
+        min-width: 170px;
+        right: 10px;
+    }
+    .ticket-stats-wrapper .ticketstatbox {
+        margin: 10px 10px 10px;
+        width: 100%;
+        background-color: #fff;
+        box-shadow: 0px 0px 5px #0000001f;
+    }
+    .adminxHeaderSticky div#contentarea {
+        margin-top: 130px;
+    }
+    .supportCenterSection .col-xs-12.col-sm-5 {
+        margin-bottom: 10px;
+    }
+    .reportMainSecWrap {
+        padding: 10px;
+    }
+    .adminx-main-section .button-row .btn-default, .reportMainSecWrap .btn-info{
+        width: 100%;
+    }
+    .adminxHeaderSticky ul.parent-sub-nav.nav-menu-open {
+        height: 150px;
+        overflow-y: auto;
+    } 
+   /* .adminx-main-section table.datatable td {
+         margin-bottom: 10px;
+         border-radius: 10px;
+    } */  
+    #clientinfo .btn-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    #clientinfo .btn-container input {
+        width: 100% !important;
+        max-width: 49%;
+        margin: 0px 0px 5px 0px !important;
+    }
+    .configauto-page-inner-data .health-status-block .icon{
+        width: 100%;
+        border-radius: 4px;
+    }
+    .market-connect-apps-container .panel-market-item .panel-body .btn-default.btn-block {
+        margin: 0;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .configproducts-page-inner-data .btn-group .btn-default {
+        border-radius: 5px !important;
+    }
+    div#tabConfig .row.top-margin-10 .col-lg-3 {
+        width: 50%;
+    }
+    .configdomains-page-inner-data .col-xs-6 {
+        width: 100%;
+    }
+    div#graphContainer .dropdown-menu>li>a{
+        white-space: unset;
+    }
+    div#graphContainer .dropdown-menu.pull-right{
+        left: 0;
+    }
+    .adminx-home-page .home-status-badge-row .col-sm-3 {
+        width: 100%;
+    }
+    .adminx-wrapper {
+        background: #eeeeee;
+    }
+    .modulequeue-page-inner-data .row {
+        display: block;
+    }
+    .adminx-inner-section.common-page-data .system-settings-index .setup-side-menu li {
+        float: unset;
+    }
+    .adminx-main-section table td.fieldarea.banned-ip-fieldarea input.form-control {
+        max-width: 100% !important;
+        margin: 10px 3px;
+    }
+    .modal-wizard .wizard-transition-step .title {
+        font-size: 25px !important;
+    }
+    .modal-wizard .wizard-transition-step .tag {
+        padding: 20px 0 30px 0;
+        font-size: 15px;
+    }
+    .modal-wizard .wizard-content{
+        margin-left: 0;
+    }
+    .modal-wizard .wizard-sidebar{
+        width: 100%;
+    }
+    .apps-and-integrations .powered-by{
+        max-width: 295px;
+    }
+    .systemSupportRequestTable {
+        overflow: auto;
+    }
+    .adminx-top-right-nav #inputIntelliSearchValue{
+        font-size: 0;
+    }
+    .adminx-main-section .automationstatus-page-data .home-status-badge-row .col-sm-4:first-child {
+        padding-left: 7px;
+    }
+    body.no-sidebar.control-bar-collapse.side-bar-collapse .contentarea, body.no-sidebar.control-bar-collapse.side-bar-collapse .footerbar{
+        margin: 0px 0px 0px 0px !important;
+    }
+    .parent-nav.has-dropdown a {
+        padding: 15px 13px
+    }
+    .parent-nav.has-dropdown ul li a {
+        padding: 8px 10px;
+    }
+    .side-bar-collapse.control-bar-collapse .footerbar, body.side-bar-collapse .footerbar {
+        margin: 0;
+    }
+    form.clients-list-form .btn {
+        margin: 4px 0;
+    }
+    .orders-page-inner-data form.clients-list-form input, .orders-page-inner-data-fraud form.clients-list-form input {
+        margin: 2px 0 !important;
+    }
+    .reports-page-inner-data .button-row .btn-inverse{
+        width: 100%;
+    }
+    .automationstatus-page-data .automation-status .widget .info-container .intro{
+        word-break: break-word;
+        white-space: inherit;
+    }
+    .modulequeue-page-inner-data .module-queue .btn-group.pull-right.action-buttons {
+        float: unset !important;
+        width: 100%;
+        margin: 8px 0px;
+    }
+    .adminxHeaderSticky ul.parent-sub-nav {
+        height: unset;
+        overflow-y: unset;
+        overflow-x: hidden;
+    }
+    .adminx-inner-section .widget-billing .item, .adminx-inner-section .widget-stripe .item {
+        padding: 15px 10px;
+    }
+    .adminx-inner-section .widget-marketconnect .selling-status .service {
+        flex-wrap: nowrap;
+    }
+    .adminx-main-section .home-widgets-container .widget-marketconnect .selling-status img {
+        max-width: 32px;
+    }
+    .adminx-main-section .widget-marketconnect .selling-status span.label {
+        padding: 2px 8px;
+        font-size: 11px;
+    }
+    .adminx-inner-section .widget-marketconnect .selling-status .service{
+        padding: 10px 10px;
+    }
+    .dashboard-panel-item .widget-content-padded {
+        padding: 10px;
+    }
+    .adminx-inner-section.orders-page-data form .btn-default {
+        margin: 4px 0px;
+    }
+    .active input#inputIntelliSearchValue{
+        z-index: 1;
+    }
+    .input-group .form-control:focus {
+        z-index: unset;
+    }
+    div#tblDisputes_wrapper {
+        overflow: auto;
+    }
+    table#tblDisputes {
+        width: 850px;
+    }
+    body #contentarea {
+        margin: 0;
+    }
+    .adminx-inner-section.automationstatus-page-data .automation-status .graph-filters{
+        display: block;
+    }
+}
+@media (max-width: 576px){
+    .adminx-main-section .transactions-header .col-lg-3 .row{
+        flex-wrap: wrap;
+        margin-top: 15px;
+    }
+    .adminx-main-section .transactions-header .col-lg-3 .col-sm-4.col-lg-12 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .adminx-main-section .transactions-header .balance-column {
+        width: 100%;
+    }
+    .adminx-main-section table.datatable td, .adminx-main-section .clientSummaryServiceList table td{
+        font-size: 13px;
+    }
+    .adminx-inner-section {
+        padding: 13px;
+    }
+    .adminx-main-section table tr:first-child td {
+        font-size: 11px;
+    }
+    .adminx-main-section table select{
+            padding-right: 18px !important;
+    }
+    .adminx-main-section table input.btn.btn-xs.btn-default{
+        font-size: 11px;
+    }
+    .drop-left.drop-down-node {
+        min-width: 170px;
+    }
+    .col-md-4.categoryKbBox{
+        width: 100.333333%;
+    }
+    .marketconnect-page-inner-data .marketconnect-logo {
+        max-width: 260px;
+    }
+    .marketConnectButtonList a.btn.btn-default.pull-right, .marketConnectButtonList .btn-default {
+        float: unset !important;
+        width: 100% !important;
+    }
+    div#tabConfig .row.top-margin-10 .col-lg-3 {
+        width: 100%;
+    }
+    .adminx-inner-section .notification-providers .scrollable {
+        height: auto;
+        white-space: unset;
+        overflow: unset;
+    }
+    .adminx-inner-section .notification-providers .scrollable.provider-count-3 .provider-col {
+        width: 100.33%;
+    }
+    .sendMessageTableDataSec .pull-right {
+        float: left!important;
+    }
+    .orders-page-inner-data form.clients-list-form input.btn, .orders-page-inner-data-fraud form.clients-list-form .input338
+    {
+        margin-bottom: 7px !important;
+    }
+    .adminx-top-right-nav #inputIntelliSearchValue{
+        font-size: 0;
+    }
+    .active input#inputIntelliSearchValue{
+        font-size: 14px;
+    }
+    .index-page-inner-data .apps-and-integrations .nav>li>a{
+        padding: 8px 8px;
+    }
+    .management-buttons {
+        display: block;
+    }
+    .app-info-modal .logo img{
+        max-height: 50px;
+    }
+    .active input#inputIntelliSearchValue {
+        width: 100%;
+        position: absolute;
+        background: #e6e6e6;
+        left: 0px;
+        right: 0;
+        top: 74px;
+    }
+    .adminx-wrapper .intellisearchresults{
+        top: 112px;
+    }
+    #intelliSearchForm.active i{    
+        top: 85px;
+    }    
+    #intelliSearchForm.active form {
+        position: unset;
+    }
+    .intellisearchAdminX.active .input-group {
+        position: unset;
+    }
+    .update-steps h2{
+        font-size: 2em;
+    }
+    .adminx-main-section  #sendmsgfrm .form td {
+        padding: 3px 3px 3px 3px;
+    }
+    .adminx-main-section #sendmsgfrm .form .form-control {
+        width: 100% !IMPORTANT;
+        margin-right: 47px !important;
+    }
+    .adminx-main-section #sendmsgfrm button#btnToggleEditor, .adminx-main-section #sendmsgfrm a.btn.btn-default.open-modal {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 5px;
+    } 
+    .adminx-main-section form#frmAddUser label {
+        font-size: 11.5px;
+    }
+    .adminx-main-section .sendmessage-page-inner-data .btn-container button {
+        margin-bottom: 5px;
+        width: 100%;
+    }
+    .cancelrequests-page-inner-data .btn-group .btn-default {
+        padding: 6px 3px;
+        font-size: 10.5px;
+    }
+    /* table top line css jump to page */
+    .adminx-main-section table tr:first-child td {
+        font-size: 10px;
+    }
+     /* table top line css jump to page */
+     .adminx-main-section .clientssummarybox{
+        overflow: auto;
+     }
+     .adminx-inner-section div.dataTables_wrapper div.dataTables_length, .adminx-inner-section div.dataTables_wrapper div.dataTables_info, .adminx-inner-section div.dataTables_wrapper div.dataTables_paginate{
+        text-align: left;
+     }
+     .clientssummary-page-inner-data #clientsummarycontainer .bulk-action-btns button.button.btn.btn-sm.btn-default {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .adminx-main-section .clientssummary-page-inner-data .tab-pane.active{
+        padding: 0;
+    }
+    .adminx-main-section .clientssummary-page-inner-data table tr:first-child td {
+        font-size: 12px;
+    }
+    .adminx-main-section .clientssummary-page-inner-data ul.client-tabs>li>a {
+        padding: 10px 10px 10px;
+    }
+    
+}

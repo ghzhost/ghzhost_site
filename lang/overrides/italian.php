@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Togli la tua domanda";
+$_LANG['bigtitlefadein'] = "Vola con i migliori!";
+$_LANG['headlighttitle'] = "NOI FORNIAMO";
+$_LANG['whyus'] = "Perché noi?";
+$_LANG['globalsystemname'] = "Inizio";
+$_LANG['getsupport_p'] = "Supporto dedicato";
+$_LANG['getsupport_span'] = "Ottieni supporto senza costi aggiuntivi. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Offriamo un'opzione di pagamento anonima e sicura, garantendo una protezione totale per le tue transazioni.";
+$_LANG['orderhosting_span'] = "Offriamo piani hosting veloci e affidabili per soddisfare tutte le tue esigenze, garantendo che il tuo sito web sia sempre visibile sul web.";
+$_LANG['orderhosting_p'] = "Hosting affidabile";
+$_LANG['buyadomain_p'] = "Trova il dominio perfetto per il tuo sito web e avvia la tua presenza online con facilità.";
+$_LANG['navStore'] = "Negozio";
+$_LANG['map'] = "Carta geografica";
+$_LANG['clientareanavhome'] = "Inizio";
+$_LANG['copyright'] = "Diritto d\'autore©";
+$_LANG['copyright2_span'] = "Alcuni diritti riservati.";
+$_LANG['web_hosting'] = "Hosting del sito web";
+$_LANG['game_server'] = "Server di gioco";
+$_LANG['og_description'] = "Hosting di siti Web e server di gioco di alta qualità. ";
+$_LANG['title_slug'] = "Hosting di siti Web, server di gioco";

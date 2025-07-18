@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "测试";
+$_LANG['bigtitle'] = "取下你的申请";
+$_LANG['bigtitlefadein'] = "与最优秀的人一起飞翔！";
+$_LANG['headlighttitle'] = "我们提供";
+$_LANG['whyus'] = "因为我们？";
+$_LANG['globalsystemname'] = "开始";
+$_LANG['getsupport_p'] = "专注支持";
+$_LANG['getsupport_span'] = "无需额外费用即可获得支持。";
+$_LANG['texto'] = "测试字符串";
+$_LANG['makepayment_span'] = "我们提供匿名且安全的支付选项，确保为您的交易提供全面保护。";
+$_LANG['orderhosting_span'] = "我们提供快速可靠的托管计划来满足您的所有需求，确保您的网站始终在网络上可见。";
+$_LANG['orderhosting_p'] = "可靠的托管";
+$_LANG['buyadomain_p'] = "为您的网站找到完美的域名并轻松启动您的在线业务。";
+$_LANG['navStore'] = "店铺";
+$_LANG['map'] = "地图";
+$_LANG['clientareanavhome'] = "开始";
+$_LANG['copyright'] = "版权所有©";
+$_LANG['copyright2_span'] = "保留一些权利。";
+$_LANG['web_hosting'] = "网站托管";
+$_LANG['game_server'] = "游戏服务器";
+$_LANG['og_description'] = "高品质的网站托管和游戏服务器。";
+$_LANG['title_slug'] = "网站托管、游戏服务器";

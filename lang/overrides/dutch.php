@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Haal uw aanvraag weg";
+$_LANG['bigtitlefadein'] = "Vlieg met de beste!";
+$_LANG['headlighttitle'] = "WIJ VOORZIEN";
+$_LANG['whyus'] = "Omdat we?";
+$_LANG['globalsystemname'] = "Begin";
+$_LANG['getsupport_p'] = "Toegewijde ondersteuning";
+$_LANG['getsupport_span'] = "Krijg ondersteuning zonder extra kosten. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Wij bieden een anonieme en veilige betalingsoptie, waardoor uw transacties volledig beschermd zijn.";
+$_LANG['orderhosting_span'] = "Wij bieden snelle en betrouwbare hostingplannen om aan al uw behoeften te voldoen, zodat uw website altijd zichtbaar is op internet.";
+$_LANG['orderhosting_p'] = "Betrouwbare hosting";
+$_LANG['buyadomain_p'] = "Vind het perfecte domein voor uw website en lanceer eenvoudig uw online aanwezigheid.";
+$_LANG['navStore'] = "Winkel";
+$_LANG['map'] = "Kaart";
+$_LANG['clientareanavhome'] = "Begin";
+$_LANG['copyright'] = "Auteursrecht ©";
+$_LANG['copyright2_span'] = "Sommige rechten voorbehouden.";
+$_LANG['web_hosting'] = "Website hosting";
+$_LANG['game_server'] = "Gameservers";
+$_LANG['og_description'] = "Hoge kwaliteit websitehosting en gameservers. ";
+$_LANG['title_slug'] = "Websitehosting, gameservers";

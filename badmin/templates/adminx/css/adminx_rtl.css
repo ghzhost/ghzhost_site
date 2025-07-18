@@ -1,0 +1,323 @@
+/*body{direction: rtl;}*/
+.adminx-rtl-view.side-bar-collapse .parent-nav.has-dropdown:hover ul.parent-sub-nav {right: 80px;left: inherit;top: 0;}
+.adminx-rtl-view.side-bar-collapse .parent-nav.has-dropdown:hover ul.parent-sub-nav li.has-dropdown.second-level-menu:hover ul {right: 190px;left: inherit;}
+.adminx-rtl-view .adminx-top-right-nav ul.right-nav li {margin: 0px 25px 0px 0px;}
+.adminx-rtl-view .adminx-top-right-nav .right-nav li .drop-down-node li { margin-right: 0;}
+.drop-left.drop-down-node {left: 0;right: unset;padding: 0;}
+.adminx-top-right-nav ul.drop-icons, .adminx-top-right-nav .drop-left {left: 0;right: unset;}
+.adminx-rtl-view .adminx-top-right-nav {padding: 0px 0px 0px 29px;}
+.adminx-rtl-view .adminx-nav-list, .adminx-rtl-view .left-nav { padding-left: 0; padding-right: 0;}
+.adminx-rtl-view span.adminx-counter-parent, .adminx-rtl-view .adminx-counter-child, 
+.adminx-rtl-view .has-dropdown.second-level-menu span.caret { float: left;}
+.adminx-rtl-view .parent-sub-nav:after { right: 5px;left: inherit;}
+.adminx-rtl-view .parent-sub-nav {padding-left: 0;padding-right: 25px;}
+.adminx-rtl-view .second-level-menu ul.parent-sub-nav.nav-menu-open {padding-right: 10px;}
+.adminx-rtl-view .dashboard-panel-static-item  .health-status-block .icon {float: left;background-position: inherit;}
+.adminx-rtl-view .dashboard-panel-static-item .health-status-block .icon a{background-position: inherit;}
+.adminx-rtl-view .dashboard-panel-item .widget-tools, .adminx-rtl-view .btn-period-chooser {float: left;}
+.adminx-rtl-view .side-navigation-admin-x {right: 0;left: inherit;}
+.adminx-rtl-view .right-side-control-admin-x {right: inherit;left: 0;}
+.adminx-rtl-view #contentarea {margin: 0 240px 0 240px;}
+.adminx-rtl-view .widget-content-padded.icon-stats .col-sm-5.text-right {text-align: left;}
+.adminx-rtl-view .adminx-main-section .widget-marketconnect .selling-status span.title {margin: 0 10px 5px 0px;text-align: right;}
+.adminx-rtl-view .icon-stats .icon-holder, 
+.adminx-rtl-view .icon-stats .icon-holder {float: right;}
+.adminx-rtl-view .search-short-cut .searchTypeSpan:after, 
+.adminx-rtl-view .search-short-cut .searchFieldSpan:after {right: inherit;left: 14px;}
+.adminx-rtl-view .search-short-cut .btn-default{right: inherit;left: 5px;}
+.adminx-rtl-view .adminx-inner-section .icon-stats .data {margin-right: 10px;margin-left: 0;}
+.adminx-rtl-view .widget-billing .bordered-right, 
+.adminx-rtl-view .widget-stripe .bordered-right {border-left: 1px solid #eee;border-right: none;}
+.adminx-rtl-view .adminx-main-section .widget-support .tickets-list .ticket .pull-right.color-blue, 
+.adminx-rtl-view .widget-marketconnect .balance-wrapper .pull-right.text-right { float: left!important;}
+.adminx-rtl-view .adminx-inner-section .widget-automation p, 
+.adminx-rtl-view .adminx-inner-section .widget-automation h4 .title-text {text-align: right;}
+.adminx-rtl-view .widget-networkstatus .name {float: right;}
+.adminx-rtl-view .adminx-main-section .widget-marketconnect .btn-manage.pull-right { float: left!important;}
+.adminx-rtl-view .module-queue .pull-right { float: left!important;}
+
+.adminx-rtl-view.control-bar-collapse .right-side-control-admin-x {right: -100%;}
+body.adminx-rtl-view.side-bar-collapse.control-bar-collapse #contentarea {margin-right: 80px;    margin-left: 0;}
+.adminx-rtl-view.side-bar-collapse.control-bar-collapse .footerbar {margin: 0px 80px 0px 0px;}
+.adminx-rtl-view.control-bar-collapse .footerbar {margin-right: 240px;margin-left: 0;}
+.adminx-rtl-view.control-bar-collapse #contentarea {margin-left: 0;}
+body.adminx-rtl-view.control-bar-collapse #contentarea {margin-right: 240px;}
+
+
+.adminx-rtl-view .adminx-main-section table.form td.fieldarea, 
+.adminx-rtl-view .whmcs-modal label.col-md-4.col-sm-6.control-label, 
+.adminx-rtl-view .adminx-main-section table.form td.fieldlabel {text-align: right;}
+.adminx-rtl-view .intl-tel-input.allow-dropdown .flag-container, 
+.adminx-rtl-view .intl-tel-input.separate-dial-code .flag-container {right: 0;left: unset;}
+.adminx-rtl-view .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-2 input, 
+.adminx-rtl-view .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-2 input[type=tel], 
+.adminx-rtl-view .intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-2 input[type=text] { padding-left: 0;padding-right: 76px;}
+.adminx-rtl-view .intl-tel-input.separate-dial-code .selected-dial-code {padding-left: 0;padding-right: 28px;}
+.adminx-rtl-view .intl-tel-input .selected-flag .iti-flag {left: 0px;}
+.adminx-rtl-view .intl-tel-input .selected-flag .iti-arrow {right: 10px;}
+.adminx-rtl-view .adminx-main-section table.form td {padding: 3px 0 3px 25px;}
+.adminx-rtl-view .date-picker-prepend-icon .date-picker-search, 
+.adminx-rtl-view .date-picker-prepend-icon .date-picker-single, 
+.adminx-rtl-view .date-picker-prepend-icon .date-picker-single-no-range {padding-left: 0;padding-right: 38px;}
+.adminx-rtl-view select {padding-left: 29px!important;padding-right: 8px!important}
+.adminx-rtl-view .adminx-main-section select, 
+.adminx-rtl-view .selectize-input.items.not-full {background-position: 4% 53%;}
+.adminx-rtl-view .errorbox {text-align: right;background-position: 99%;padding: 6px 60px 6px 0px;}
+.adminx-rtl-view .adminx-main-section .close { margin-left: inherit;margin-right: auto;}
+.adminx-rtl-view .adminx-main-section table tr td:last-child {border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;text-align: right;}
+.adminx-rtl-view .adminx-main-section .cancelrequests-page-data table tr td:last-child, .adminx-rtl-view .adminx-main-section .billableitems-page-data table tr td:last-child{text-align: left;}
+.adminx-rtl-view .daterangepicker .drp-calendar {max-width: inherit;}
+.adminx-rtl-view div#modalQuoteConvertFooter .btn+.btn {margin-left: 0px !important;margin-right:5px !important;}
+.adminx-rtl-view .adminx-main-section div#depositoptions .date-picker-prepend-icon .field-icon {right: inherit;left: 95px;}
+.adminx-rtl-view .adminx-main-section .search-bar .search-fields {margin-left: 0;padding-right: 55px;}
+.adminx-rtl-view .search-bar .search-icon {float: right;}
+.adminx-rtl-view #frmRecordsFound .col-md-6.col-sm-12.text-right {text-align: left;}
+.adminx-rtl-view .mce-container, 
+.adminx-rtl-view .mce-container *, 
+.adminx-rtl-view .mce-widget, 
+.adminx-rtl-view .mce-widget *, 
+.adminx-rtl-view .mce-reset {text-align: right;direction: rtl;}
+.adminx-rtl-view .caret, 
+.adminx-rtl-view .clients-list-form .caret {transform: rotate(136deg);-webkit-transform: rotate(136deg);}
+.adminx-rtl-view .adminx-main-section table.datatable th, 
+.adminx-rtl-view .adminx-main-section .clientSummaryServiceList table th, 
+.adminx-rtl-view .adminx-main-section table.datatable td, 
+.adminx-rtl-view .adminx-main-section .clientSummaryServiceList table td{text-align: right;}
+.adminx-rtl-view .adminx-main-section .transactions-header .stat .icon {float: left;}
+.adminx-rtl-view .context-btn-container .text-left {text-align: right;}
+.adminx-rtl-view #servicecontent .context-btn-container .col-sm-5, .context-btn-container .col-sm-5{text-align: left;}
+.adminx-rtl-view .selectize-control.form-control.selectize-select.selectize-float.selectize-auto-submit.single.rtl{float: right;}
+.adminx-rtl-view .selectize-control.form-control.selectize-select.selectize-float.selectize-auto-submit.single.rtl{max-width: 92%;}
+.adminx-rtl-view .service-field-inline {float: right;}
+.adminx-rtl-view div.dataTables_wrapper div.dataTables_filter {text-align: right;}
+.adminx-rtl-view .reports-index {text-align: right;}
+.adminx-rtl-view .reports-page-images {margin-right: 0;margin-left: 5px;}
+.adminx-rtl-view .side-bar-collapse .adminx-main-section, .footerbar {
+    margin: 0 80px 0 80px;
+}
+.adminx-rtl-view .footerbar {
+    margin: 0 240px 0 240px;
+}
+.adminx-rtl-view.side-bar-collapse #contentarea {
+    margin-right: 80px;
+}
+.adminx-rtl-view.side-bar-collapse .footerbar {
+    margin: 0px 80px 0px 240px;
+}
+.adminx-rtl-view.no-sidebar.control-bar-collapse .adminx-main-section, .adminx-rtl-view.no-sidebar.control-bar-collapse .footerbar {
+    margin: 0 240px 0 0px;
+}
+.adminx-rtl-view.no-sidebar.side-bar-collapse #contentarea {
+    margin-left: 240px;
+}
+.adminx-rtl-view.no-sidebar.control-bar-collapse.side-bar-collapse .footerbar{
+    margin-left: 0px;
+}
+.adminx-rtl-view .automationstatus-page-inner-data .automation-status .widget .pull-right {
+    float: left !important;
+}
+.adminx-rtl-view .automation-status .widget .failed, .adminx-rtl-view .automation-status .widget .failed:hover{
+    float: left;
+}
+.adminx-rtl-view .automationstatus-page-data .health-status-block .icon{
+    border-radius: 10px 0px 0px 10px;
+}
+.adminx-rtl-view div#singleoptions .form-group.date-picker-prepend-icon {
+    text-align: right;
+}
+.adminx-rtl-view div#modalAjax button#btnUpdateUser {
+    margin-left: 5px;
+}
+.adminx-rtl-view .table-themed thead .sorting:after, .adminx-rtl-view .table-themed thead .sorting_asc:after, .adminx-rtl-view .table-themed thead .sorting_desc:after {
+    bottom: 10px!important;
+    left: 15px;
+    right:unset;
+}
+.adminx-rtl-view .reports-page-inner-data .pull-right {
+    float: left!important;
+}
+/* .adminx-rtl-view .pull-right>.dropdown-menu{
+    left: 0;
+    right: unset;
+} */
+.adminx-rtl-view .widget-clientactivity .last-login{
+    float: left;
+}
+.adminx-rtl-view .adminx-inner-section .widget-activity .feed-element small.pull-right.text-navy{
+    float: left !important;
+}
+/*.adminx-rtl-view .index-page-inner-data .icon-stats .item{
+    justify-content: space-between;
+}*/
+.adminx-rtl-view .icon-stats .data div{
+    text-align: right;
+}
+.adminx-rtl-view #containerAllVersionsDetails .badge.pull-right {
+    float: left!important;
+}
+.adminx-rtl-view .tab-content.client-tabs .clientsummaryactions {
+    float: left;
+}
+.adminx-rtl-view .clientssummary-page-inner-data a#summary-login-as-owner {
+    margin-right: 0px;
+    margin-left: 5px;
+}
+.adminx-rtl-view .adminx-main-section #clientsummarycontainer .bulk-actions .form-group {
+    margin-right: 20px;
+    margin-left: 0 !important;
+}
+.adminx-rtl-view .modal-wizard .wizard-sidebar{
+    float: right;
+}
+.adminx-rtl-view .modal-wizard .wizard-content{
+    margin-left: 0;
+    margin-right: 246px;
+}
+.adminx-rtl-view .whmcs-modal .modal-footer div#modalFooterLeft .pull-left {
+    float: right!important;
+}
+.adminx-rtl-view #featuredContentPane .pull-right {
+    float: left!important;
+}
+.adminx-rtl-view .input-group-addon:first-child{
+    border-right: 1px solid #c0c0c0;
+}
+.adminx-rtl-view .table-themed tr th{
+    text-align: right;
+}
+.adminx-rtl-view .setup-tasks-banner {
+    float: left;
+}
+.adminx-rtl-view .system-settings-index .setup-category-title{
+    text-align: left;
+}
+.adminx-rtl-view .systemsupportrequest-page-inner-data input.form-control.input-inline.input-500{
+    margin-right: 0px !important;
+    margin-left: 5px !important;
+}
+.adminx-rtl-view .systemsupportrequestTableDataSec td:not(:last-child) {
+    border-right: 0 !important;
+    border-left: 1px dashed #ccc;
+}
+.adminx-rtl-view #modalMyNotes button.close{
+    margin-left: 0;
+    margin-right: auto;
+    width: 50px;
+}
+.adminx-rtl-view .twofa-module .col-radio {
+    float: right;
+}
+.adminx-rtl-view .whmcs-modal input[type="radio"] {
+    width: auto !important;
+}
+.adminx-rtl-view #modalAjaxBody input.btn.btn-primary {
+    background: #3661EB;
+    border: transparent !important;
+}
+.adminx-rtl-view .right-side-control-admin-x .control-bar-body-section ul{
+    padding-right: 0;
+}
+.adminx-rtl-view .control-bar-body-section ul.content-padded-sysinfo {
+    padding-right: 0;
+}
+.adminx-rtl-view .control-bar-body-section ul {
+    padding-right: 20px;
+}
+.adminx-rtl-view .clientssummary-page-inner-data .pull-right>.dropdown-menu {
+    right: 0;
+    left: unset;
+    box-shadow: 0px 0px 7px #0000001f;
+}
+.adminx-rtl-view #clientsummarycontainer .bulk-actions .row {
+    margin: 0;
+}
+.adminx-rtl-view .reports-page-inner-data ul.dropdown-menu {
+    left: 0;
+    right: unset;
+}
+.adminx-rtl-view .adminx-main-section table tr td:first-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.adminx-rtl-view .right-nav li .drop-left.drop-down-node li a{
+    text-align: right;
+}
+.adminx-rtl-view #modalAjax input#cronPhp {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+.adminx-rtl-view .adminx-inner-section ul.dropdown-menu-page{
+    right: -30px;
+    left:unset;
+}
+.adminx-rtl-view .spotlight-title {
+    margin: 25px 5px 10px 9px
+}
+.adminx-rtl-view .index-page-inner-data .apps-and-integrations .input-group.search .input-group-btn{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.adminx-rtl-view .configdomains-page-inner-data .col-lg-3.col-xs-6 .input-group-addon:last-child {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.adminx-rtl-view .configdomains-page-inner-data .domain-pricing-bulk-group span.input-group-addon:first-child {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.adminx-rtl-view .btn-info.add-spotlight {
+    border-radius: 0px !important;
+}
+.adminx-rtl-view .system-health-export-buttons .pull-right {
+    float: left!important;
+}
+.adminx-rtl-view .health-status-block .detail{
+    border-radius: 4px 0px 0px 4px;
+}
+.adminx-rtl-view .health-status-block .icon{
+    border-radius: 0px 4px 4px 0px;
+}
+.adminx-rtl-view .input-group.domain-pricing-bulk-group .input-group-addon:last-child{
+    border-color: #C0C0C0;
+}
+.adminx-rtl-view .modal-mc-service .nav-tabs>li:first-child {
+    padding-left: 0;
+}
+.adminx-rtl-view .modal-mc-service .promotions .bootstrap-switch {
+    float: left;
+}
+/* .adminx-rtl-view #intelliSearchForm i{
+    right: 9px;
+    left:unset;
+} */
+.adminx-rtl-view .systemhealthandupdates-page-inner-data span.pull-right.clickable{
+    float: left!important;
+}
+.adminx-rtl-view .system-settings-index .filter-container i:first-child {
+    left: 25px;
+}
+@media (max-width:1300px){
+    .adminx-rtl-view .dashboard-panel-item .widget-content-padded .col-sm-7 {
+        width: 100.333333%;
+    }
+}
+
+@media (min-width: 564px){
+.adminx-rtl-view .daterangepicker {direction: rtl;text-align: right;}
+.adminx-rtl-view .daterangepicker.single .drp-calendar, 
+.adminx-rtl-view .daterangepicker.single .ranges {float: right;text-align: right;}
+.adminx-rtl-view .login-body .checkbox {
+    margin-top: 4px;
+    margin-bottom: 16px;
+    float: right;
+    width: 100%;
+}
+}

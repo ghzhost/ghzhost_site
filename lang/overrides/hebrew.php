@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "מִבְחָן";
+$_LANG['bigtitle'] = "תוריד את הבקשה שלך";
+$_LANG['bigtitlefadein'] = "לטוס עם הטובים ביותר!";
+$_LANG['headlighttitle'] = "אנו מספקים";
+$_LANG['whyus'] = "כי אנחנו?";
+$_LANG['globalsystemname'] = "הַתחָלָה";
+$_LANG['getsupport_p'] = "תמיכה ייעודית";
+$_LANG['getsupport_span'] = "קבל תמיכה ללא עמלות נוספות. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "אנו מציעים אפשרות תשלום אנונימית ומאובטחת, המבטיחה הגנה מלאה על העסקאות שלך.";
+$_LANG['orderhosting_span'] = "אנו מציעים תוכניות אירוח מהירות ואמינות כדי לענות על כל הצרכים שלך, ומבטיחים שהאתר שלך תמיד גלוי באינטרנט.";
+$_LANG['orderhosting_p'] = "אירוח אמין";
+$_LANG['buyadomain_p'] = "מצא את הדומיין המושלם עבור האתר שלך והפעל את הנוכחות המקוונת שלך בקלות.";
+$_LANG['navStore'] = "חנות";
+$_LANG['map'] = "מַפָּה";
+$_LANG['clientareanavhome'] = "הַתחָלָה";
+$_LANG['copyright'] = "זכויות יוצרים ©";
+$_LANG['copyright2_span'] = "כמה זכויות שמורות.";
+$_LANG['web_hosting'] = "אחסון אתרים";
+$_LANG['game_server'] = "שרתי משחק";
+$_LANG['og_description'] = "אחסון אתרים ושרתי משחקים באיכות גבוהה. ";
+$_LANG['title_slug'] = "אחסון אתרים, שרתי משחקים";

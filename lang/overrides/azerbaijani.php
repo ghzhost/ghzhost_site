@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Ərizənizi çıxarın";
+$_LANG['bigtitlefadein'] = "Ən yaxşılarla uçun!";
+$_LANG['headlighttitle'] = "TƏMİN EDİRİK";
+$_LANG['whyus'] = "Çünki biz?";
+$_LANG['globalsystemname'] = "Başlamaq";
+$_LANG['getsupport_p'] = "Xüsusi dəstək";
+$_LANG['getsupport_span'] = "Əlavə ödəniş etmədən dəstək alın. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Biz əməliyyatlarınız üçün tam mühafizəni təmin edən anonim və təhlükəsiz ödəniş seçimi təklif edirik.";
+$_LANG['orderhosting_span'] = "Veb saytınızın həmişə internetdə görünməsini təmin edərək, bütün ehtiyaclarınızı ödəmək üçün sürətli və etibarlı hosting planları təklif edirik.";
+$_LANG['orderhosting_p'] = "Etibarlı hosting";
+$_LANG['buyadomain_p'] = "Veb saytınız üçün mükəmməl domeni tapın və onlayn mövcudluğunuzu asanlıqla işə salın.";
+$_LANG['navStore'] = "Mağaza";
+$_LANG['map'] = "Xəritə";
+$_LANG['clientareanavhome'] = "Başlamaq";
+$_LANG['copyright'] = "Müəlliflik hüququ ©";
+$_LANG['copyright2_span'] = "Bəzi hüquqlar qorunur.";
+$_LANG['web_hosting'] = "Veb sayt hostinqi";
+$_LANG['game_server'] = "Oyun serverləri";
+$_LANG['og_description'] = "Yüksək keyfiyyətli veb hostinq və oyun serverləri. ";
+$_LANG['title_slug'] = "Veb saytların hostinqi, oyun serverləri";

@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "Test";
+$_LANG['bigtitle'] = "Scoateți aplicația";
+$_LANG['bigtitlefadein'] = "Zboară cu cei mai buni!";
+$_LANG['headlighttitle'] = "NOI OFERIM";
+$_LANG['whyus'] = "Pentru că noi?";
+$_LANG['globalsystemname'] = "start";
+$_LANG['getsupport_p'] = "Suport dedicat";
+$_LANG['getsupport_span'] = "Obțineți asistență fără taxe suplimentare. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Oferim o optiune de plata anonima si sigura, asigurand protectie totala tranzactiilor dumneavoastra.";
+$_LANG['orderhosting_span'] = "Oferim planuri de găzduire rapide și de încredere pentru a vă satisface toate nevoile, asigurându-vă că site-ul dvs. este întotdeauna vizibil pe web.";
+$_LANG['orderhosting_p'] = "Gazduire de incredere";
+$_LANG['buyadomain_p'] = "Găsiți domeniul perfect pentru site-ul dvs. și lansați-vă prezența online cu ușurință.";
+$_LANG['navStore'] = "Magazin";
+$_LANG['map'] = "Hartă";
+$_LANG['clientareanavhome'] = "start";
+$_LANG['copyright'] = "Copyright ©";
+$_LANG['copyright2_span'] = "Unele drepturi rezervate.";
+$_LANG['web_hosting'] = "Gazduire site";
+$_LANG['game_server'] = "Servere de jocuri";
+$_LANG['og_description'] = "Găzduire site-uri și servere de jocuri de înaltă calitate. ";
+$_LANG['title_slug'] = "Gazduire site, servere de jocuri";

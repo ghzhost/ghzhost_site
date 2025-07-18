@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Ta av søknaden din";
+$_LANG['bigtitlefadein'] = "Fly med de beste!";
+$_LANG['headlighttitle'] = "VI SKAFFER";
+$_LANG['whyus'] = "Fordi vi?";
+$_LANG['globalsystemname'] = "Start";
+$_LANG['getsupport_p'] = "Dedikert støtte";
+$_LANG['getsupport_span'] = "Få støtte uten ekstra gebyrer. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "Vi tilbyr et anonymt og sikkert betalingsalternativ, som sikrer total beskyttelse for transaksjonene dine.";
+$_LANG['orderhosting_span'] = "Vi tilbyr raske og pålitelige hostingplaner for å møte alle dine behov, og sikrer at nettstedet ditt alltid er synlig på nettet.";
+$_LANG['orderhosting_p'] = "Pålitelig hosting";
+$_LANG['buyadomain_p'] = "Finn det perfekte domenet for nettstedet ditt og lanser din tilstedeværelse på nettet med letthet.";
+$_LANG['navStore'] = "butikk";
+$_LANG['map'] = "Kart";
+$_LANG['clientareanavhome'] = "Start";
+$_LANG['copyright'] = "Copyright ©";
+$_LANG['copyright2_span'] = "Noen rettigheter forbeholdt.";
+$_LANG['web_hosting'] = "Webhotell";
+$_LANG['game_server'] = "Spillservere";
+$_LANG['og_description'] = "Høykvalitets webhotell og spillservere. ";
+$_LANG['title_slug'] = "Nettstedshosting, spillservere";

@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "teste";
+$_LANG['bigtitle'] = "Decole sua aplicação";
+$_LANG['bigtitlefadein'] = "Voe com a melhor!";
+$_LANG['headlighttitle'] = "NÓS PROVEMOS";
+$_LANG['whyus'] = "Por que nós?";
+$_LANG['globalsystemname'] = "Início";
+$_LANG['getsupport_p'] = "Suporte dedicado";
+$_LANG['getsupport_span'] = "Obtenha suporte sem taxas extras. Nossa equipe está aqui para ajudar a encontrar a melhor solução para você.";
+$_LANG['texto'] = "testestr";
+$_LANG['makepayment_span'] = "Oferecemos uma opção de pagamento anônima e segura, Garantindo total proteção para suas transações.";
+$_LANG['orderhosting_span'] = "Oferecemos planos de hospedagem rápidos e confiáveis para atender a todas as suas necessidades, garantindo que seu site esteja sempre visível na web.";
+$_LANG['orderhosting_p'] = "Hospedagem confiável";
+$_LANG['buyadomain_p'] = "Encontre o domínio perfeito para o seu site e inicie sua presença online com facilidade.";
+$_LANG['navStore'] = "Loja";
+$_LANG['map'] = "Mapa";
+$_LANG['clientareanavhome'] = "Início";
+$_LANG['copyright'] = "Direitos autorais ©";
+$_LANG['copyright2_span'] = "Alguns Direitos Reservados.";
+$_LANG['web_hosting'] = "Hospedagem de Sites";
+$_LANG['game_server'] = "Servidores de jogos";
+$_LANG['og_description'] = "Hospedagem de sites e servidores de jogos de alta qualidade. Planos flexíveis e preços acessíveis para atender às suas necessidades online. Confiabilidade e desempenho garantidos.";
+$_LANG['title_slug'] = "Hospedagem de Sites,  Servidores de Jogos";

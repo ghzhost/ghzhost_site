@@ -1,0 +1,116 @@
+@media (max-width:1199px){
+    body.adminx-rtl-view.control-bar-open-mobile div#contentarea {
+        margin-left: 0;
+    }
+}
+
+@media (max-width:991px){
+    .adminx-rtl-view .dashboard-panel-static-item .health-status-block .detail span.count{
+        text-align: right;
+    }
+    .adminx-rtl-view .dashboard-panel-static-item .health-status-block .detail a{
+        justify-content: right;
+    }
+    .adminx-rtl-view .adminx-inner-section .widget-support .icon-stats .data {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+@media (max-width: 767px){
+    .adminx-rtl-view .contentarea {
+        margin: 0;
+    }
+    .adminx-rtl-view.side-bar-collapse .parent-nav.has-dropdown:hover ul.parent-sub-nav{
+        right: 0;
+    }
+    .adminx-rtl-view .adminx-top-right-nav {
+        padding: 0;
+    }
+    .adminx-rtl-view ul.left-nav {
+        left: unset;
+        right: 20px;
+    }
+    .adminx-rtl-view .side-navigation-admin-x {
+        right: 0;
+        left: unset;
+    }
+    /* .adminx-rtl-view aside.side-navigation-admin-x {
+        transform: translateX(-100%);
+    } */
+    body.adminx-rtl-view.side-bar-collapse.control-bar-collapse .contentarea, .adminx-rtl-view.control-bar-collapse .footerbar, .adminx-rtl-view.side-bar-collapse.control-bar-collapse .footerbar {
+        margin-right: 0;
+    }
+    .adminx-top-right-nav li.bt.control-bar-settings{
+        right: unset;
+    }
+    .adminx-rtl-view .footerbar {
+        margin: 0;
+    }
+    .adminx-rtl-view .side-navigation-admin-x {
+        transform: translateX(100%);
+    }
+    .adminx-rtl-view .side-bar-collapse .parent-nav.has-dropdown:hover span.parent-nav-menu-name{
+        right: 70px;
+    }
+    body.side-bar-collapse.adminx-rtl-view aside.side-navigation-admin-x {
+        transform: unset;
+    }
+    .side-bar-collapse .parent-nav.has-dropdown:hover span.parent-nav-menu-name{
+        left: unset;
+        right: 80px;
+    }
+    .adminx-rtl-view .adminx-main-section .search-bar .search-fields{
+        padding-right: 0;
+    }
+    .adminx-rtl-view .adminx-main-section table.form td {
+        padding: 3px 0 3px 0px;
+    }
+    .adminx-rtl-view.no-sidebar.control-bar-collapse .adminx-main-section, .adminx-rtl-view.no-sidebar.control-bar-collapse .footerbar {
+        margin: 0;
+    }
+    .adminx-rtl-view .modal-wizard .wizard-content {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .adminx-rtl-view .date-picker-prepend-icon .date-picker-search, .adminx-rtl-view .date-picker-prepend-icon .date-picker-single, .adminx-rtl-view .date-picker-prepend-icon .date-picker-single-no-range{
+        padding-left: 10px;
+    }
+    .adminx-rtl-view .active input#inputIntelliSearchValue {
+        padding-left: 10px;
+    }
+    .adminx-rtl-view #intelliSearchForm i{
+        left:27px;
+    }
+    .adminx-rtl-view #intelliSearchForm.active i{
+        left: 25px;
+    }
+    .adminx-rtl-view .adminx-top-right-nav ul.right-nav{
+        width: 85%;
+    }
+    .adminx-rtl-view div#intelliSearchForm{
+        width: 15% !important;
+    }
+     .adminx-rtl-view .dashboard-panel-item .widget-content-padded .col-sm-7 {
+        width: 58.33333333%;
+    }
+    .adminx-rtl-view #intelliSearchForm i {
+        left: inherit;
+        right: 10px;
+    }
+    .adminx-rtl-view.side-bar-collapse .footerbar {
+        margin: 0;
+    }
+    body.adminx-rtl-view.control-bar-collapse #contentarea {
+        margin-right: 0;
+    }
+    .adminx-rtl-view #contentarea {
+        margin: 0;
+    }
+    body.adminx-rtl-view.side-bar-collapse.control-bar-collapse #contentarea {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .adminx-rtl-view .active input#inputIntelliSearchValue{
+        padding-right: 40px;
+    }
+}

@@ -1,0 +1,23 @@
+<?php
+$_LANG['strtest'] = "test";
+$_LANG['bigtitle'] = "Take off your application";
+$_LANG['bigtitlefadein'] = "Fly with the best!";
+$_LANG['headlighttitle'] = "WE PROVIDE";
+$_LANG['whyus'] = "Because we?";
+$_LANG['globalsystemname'] = "Start";
+$_LANG['getsupport_p'] = "Dedicated support";
+$_LANG['getsupport_span'] = "Get support without extra fees. ";
+$_LANG['texto'] = "teststr";
+$_LANG['makepayment_span'] = "We offer an anonymous and secure payment option, ensuring total protection for your transactions.";
+$_LANG['orderhosting_span'] = "We offer fast and reliable hosting plans to meet all your needs, ensuring your website is always visible on the web.";
+$_LANG['orderhosting_p'] = "Reliable hosting";
+$_LANG['buyadomain_p'] = "Find the perfect domain for your website and launch your online presence with ease.";
+$_LANG['navStore'] = "Store";
+$_LANG['map'] = "Map";
+$_LANG['clientareanavhome'] = "Start";
+$_LANG['copyright'] = "Copyright ©";
+$_LANG['copyright2_span'] = "Some Rights Reserved.";
+$_LANG['web_hosting'] = "Website hosting";
+$_LANG['game_server'] = "Game Servers";
+$_LANG['og_description'] = "High quality website hosting and game servers. ";
+$_LANG['title_slug'] = "Website Hosting, Game Servers";
